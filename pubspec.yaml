@@ -15,7 +15,7 @@ dependencies:
   # Bond packages
   bond_core:
     git:
-      url: git@github.com:onestudio-co/bond_core_workspace.git
+      url: git@github.com:onestudio-co/bond_core.git
       ref: main
       
 
