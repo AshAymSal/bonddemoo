@@ -15,8 +15,9 @@ dependencies:
   # Bond packages
   bond_core:
     git:
-      url: https://github.com/onestudio-co/bond-core.git
+      url: git@github.com:onestudio-co/bond_core_workspace.git
       ref: main
+      
 
 
   get_it: ^7.2.0
@@ -36,7 +37,7 @@ dependencies:
   json_serializable: ^6.5.4
   json_annotation: ^4.7.0
   flutter_svg: ^1.0.3
-  google_fonts: ^3.0.1
+  google_fonts: ^5.1.0
 
   # state management
   bloc: ^8.0.2
@@ -53,13 +54,13 @@ dependencies:
   flutter_native_splash: ^2.2.8
   timeago: ^3.3.0
   args: ^2.3.1
-  mason_cli: ^0.1.0-dev.50
+  ##mason_cli: ^0.1.0-dev.50
 
   # platforms packages
   universal_platform: ^1.0.0+1
   shared_preferences: ^2.0.15
   flutter_secure_storage: ^8.0.0
-  package_info_plus: ^3.0.2
+  ##package_info_plus: ^3.0.2
   flutter_local_notifications: ^9.3.3
 
   # Firebase
